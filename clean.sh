@@ -6,4 +6,4 @@ make distclean
 
 cd ..
 
-echo hello
+echo hell o
