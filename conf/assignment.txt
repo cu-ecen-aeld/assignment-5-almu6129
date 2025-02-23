@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 assignment4-buildroot
+=======
+assignment5-buildroot
+>>>>>>> buildroot-assignments-base/assignment5
