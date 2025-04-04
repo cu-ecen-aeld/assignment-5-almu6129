@@ -4,7 +4,7 @@
 #
 ##############################################################
 
-AESDCHAR_VERSION ='bc214cbdce3228057d9a57dbac69b068ae93b391'
+AESDCHAR_VERSION ='3b3548d25f50540db2aa657f9ebc7927a7c2f8e6'
 
 AESDCHAR_SITE =git@github.com:cu-ecen-aeld/assignments-3-and-later-almu6129.git
 AESDCHAR_SITE_METHOD = git
